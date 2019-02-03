@@ -1,9 +1,15 @@
 After downloading.
 
-navigate to the expense_manager folder.
+Navigate to the expense_manager folder.
 
-and run.
+Step 1:
 
 ```
 npm install
+```
+
+Step 2:
+
+```
+npm start
 ```
