@@ -13,3 +13,6 @@ Step 2:
 ```
 npm start
 ```
+In browser
+
+open localhost:8000
